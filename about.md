@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Vad händer om jag lägger in lite text här helt random?
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic 
-Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Mitt namn är David och jag är 27 år och bestämde mig för att börja studera och har under en längre tid varit intresserad av att lära mig
+mer om programmering, så den här utbildningen kommer nog passa mig perfekt. Jag bodde i Sundsvall innan jag flyttade ner till Kalmar som jag
+aldrig har varit i tidigare mer än att passera påväg till Öland. Jag har två bröder, en yngre och en äldre, Anton och Fredrik.
