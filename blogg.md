@@ -1,9 +1,53 @@
 ---
 layout: post
-title: Blogg
+title: Plex
 permalink: /blogg/
 ---
 
-# Test 1
+# Vad är Plex?
 
-Tja det här är en blogg.
+Plex är ett användarvänligt program som gör det enkelt att sätta upp din alldeles egna streaming tjänst, oavsätt om det är bilder, musik eller filmer!
+Det går enkelt att komma åt allt matrial via mobiltelefoner, surfplattor, datorn, spelkonsoler eller TV. Det går även att dela med sig till vänner och
+familj genom att enkelt bjuda in dem via ett e-post meddelande.
+
+![Plex](http://core0.staticworld.net/images/article/2016/06/plex_on_nvidia-100669283-large.jpg)
+
+# Hur fungerar det?
+
+För att kunna använda Plex så måste man installera Plex Media Server, (se länk: https://www.plex.tv/downloads/) på din Dator/Server eller Nas. Beroende på CPU kraften
+så varierar det vilket sorts kvalité du kan streama i, se minimum krav:
+
+* No transcoding: Core 2 Duo 1.6GHz (NAS devices based on ARM or PowerPC processors should also be capable of at least one stream with no transcoding)
+* Single 720p transcode: Core 2 Duo 2.0 GHz
+* Single 1080p transcode: Core 2 Duo 2.4GHz
+
+Om du väljer att lägga till yttligare ljudfiler eller undertexter så kommer Plex transcoding använda extra mycket CPU kraft då servern måste transcoda om
+filen innan den streamas till klienterna.
+
+# Hur ser gränssnittet ut?
+
+Gränssnittet varierar lite mellan olika klienter, men senaste standarden för TV ser ut såhär:
+
+![Plex GUI](https://services.tegrazone.com/sites/default/files/article-feature-images/plex-media-server.jpg)
+
+Blogg om Plex, dawwet.
+
+# Posts!
+
+* What do you think of pre-compiling your CSS?
+
+    * Compare to regular CSS
+    * Which techniques did you use?
+    * Pros and cons?
+    
+* What do you think of static site generators?
+
+* What type of projects are they suitable for?
+
+* What is robots.txt and how have you configure it for your site?
+
+* What is humans.txt and how have you configure it for your site?
+
+* How did you implements comments to blog posts
+
+* What is Open Graph and how do you make use of it?

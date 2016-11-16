@@ -5,6 +5,7 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
+    background-color: lightsteelblue;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -16,10 +17,11 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    color: blue;
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: black;
     }
 }
 
@@ -109,7 +111,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: black;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -201,7 +203,6 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-    color: grey;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -234,4 +235,8 @@
             font-size: 18px;
         }
     }
+}
+
+.kotte {
+    color: black;
 }

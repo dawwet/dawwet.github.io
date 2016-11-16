@@ -1,16 +1,15 @@
 /* TEAM */
 
 Your title: Dawwet
-Site: kotte
-Twitter: dawwet
+Occupation: Student
+Contact: kotte@ignoreme.com
+Github: dawwet
 Location: Sundsvall, Sweden.
 
 /* THANKS */
-Name: name or url
-
+Name: Special thanks to https://disqus.com/
 
 /* SITE */
-Last update: YYYY/MM/DD
-Standards: HTML5, CSS3,..
-Components: Modernizr, jQuery, etc.
-Software: Software used for the development
+Last update: 2016/11/16
+Standards: JS, SASS, HTML5, CSS3..
+Software: Webstorm, Vagrant

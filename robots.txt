@@ -1,4 +1,2 @@
 User-agent: *
 Disallow: /
-
-Tja vad är det här för skit jag har inte en aning vad som händer hahah :D
