@@ -1,0 +1,16 @@
+/* TEAM */
+
+Your title: Dawwet
+Site: kotte
+Twitter: dawwet
+Location: Sundsvall, Sweden.
+
+/* THANKS */
+Name: name or url
+
+
+/* SITE */
+Last update: YYYY/MM/DD
+Standards: HTML5, CSS3,..
+Components: Modernizr, jQuery, etc.
+Software: Software used for the development
