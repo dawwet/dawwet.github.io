@@ -3,7 +3,7 @@ title: David Olsson
 email: do222ea@student.lnu.se
 description: > # this means to ignore newlines until "baseurl:"
   På denna webbplats kommer jag att publicera mina projekt under tiden som student på Linnéuniversitetet!
-baseurl: /posts/ # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username:
 github_username:  dawwet
